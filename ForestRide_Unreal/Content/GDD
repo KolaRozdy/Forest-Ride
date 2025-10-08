@@ -1,0 +1,14 @@
+Forest Ride GDD
+
+///Summary
+Car driving among the forest. Car has no breaks and always accelerating.
+
+///Main mechanics
+player controls car with a driving wheen on the screen.
+Road is slippy
+Car has no breaks
+
+///Levels
+Game is level based 
+The goal would be collect all stars
+Th
