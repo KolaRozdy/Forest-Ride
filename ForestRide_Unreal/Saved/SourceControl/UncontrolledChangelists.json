@@ -5,15 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/COMP5275080/Documents/GitHub/Forest-Ride/ForestRide_Unreal/Content/Blueprints/Car/Car_Char.uasset",
-				"C:/Users/COMP5275080/Documents/GitHub/Forest-Ride/ForestRide_Unreal/Content/Visuals/UI/SteeringWheel.uasset",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Levels/Flatland.umap",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Models/car.uasset",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Blueprints/Car/Car_Char.uasset",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Blueprints/Car/Obstacle.uasset",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Models/main.uasset",
-				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Visuals/UI/NewWidgetBlueprint.uasset",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Visuals/UI/SteeringWheel.uasset",
+				"E:/EGS/Unreal Engine/UE_5.4/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset",
+				"C:/Users/COMP5275080/Documents/GitHub/Forest-Ride/ForestRide_Unreal/Content/Blueprints/Car/Car_Char.uasset",
+				"C:/Users/COMP5275080/Documents/GitHub/Forest-Ride/ForestRide_Unreal/Content/Visuals/UI/SteeringWheel.uasset",
+				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Visuals/UI/NewWidgetBlueprint.uasset",
 				"E:/GitHub/Car Ride/Forest-Ride/ForestRide_Unreal/Content/Blueprints/Car/Car.uasset"
 			]
 		}
