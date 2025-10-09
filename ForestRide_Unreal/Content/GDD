@@ -4,11 +4,12 @@ Forest Ride GDD
 Car driving among the forest. Car has no breaks and always accelerating.
 
 ///Main mechanics
-player controls car with a driving wheen on the screen.
+player controls car with a driving wheen on the screen
 Road is slippy
 Car has no breaks
-Collectables - starts, perks
-  *As you collect more stars 
+Collectables
+  *Car looses health while collide 
+  *As you collect more stars, car's speed increases
 Obstacles - Car bounces of and loses health
 
 
