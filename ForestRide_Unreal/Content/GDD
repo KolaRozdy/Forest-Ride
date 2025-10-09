@@ -7,8 +7,13 @@ Car driving among the forest. Car has no breaks and always accelerating.
 player controls car with a driving wheen on the screen.
 Road is slippy
 Car has no breaks
+Collectables - starts, perks
+  *As you collect more stars 
+Obstacles - Car bounces of and loses health
 
-///Levels
-Game is level based 
-The goal would be collect all stars
-Th
+
+///Map
+Map is not procedural, but generated 
+
+//
+
